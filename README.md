@@ -7,7 +7,7 @@ It uses **OpenAI GPT** models and **Pinecone** vector database for retrieval-aug
 ---
 
 ## 🌐 Live Demo
-[![Open in Streamlit]((https://jashu284-new-ai-app-cfl4fp.streamlit.app/))
+((https://jashu284-new-ai-app-cfl4fp.streamlit.app/))
 
 ---
 
