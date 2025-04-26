@@ -85,8 +85,8 @@ This project is licensed under the MIT License. See `LICENSE` file for more deta
 
 ## 📢 Connect
 
-- GitHub: [YOUR_GITHUB_PROFILE_LINK]
-- LinkedIn: [YOUR_LINKEDIN_PROFILE_LINK]
+- GitHub: [https://github.com/Jashu284][https://github.com/Vinay1289Sai]
+- LinkedIn: [https://www.linkedin.com/in/jaswanth-pavuluri/][https://www.linkedin.com/in/vinay-sai-rajapu/]
 
-> **Made with ❤️ by [Your Name]!**
+> **Made with ❤️ by [Jaswanth and Vinay]!**
 
