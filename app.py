@@ -1,6 +1,6 @@
 import streamlit as st
 from openai import OpenAI
-from pinecone import Pinecone, ServerlessSpec
+from pinecone import Pinecone, ServerlessSpec 
 from dotenv import load_dotenv
 import os
 
