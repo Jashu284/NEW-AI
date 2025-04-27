@@ -68,7 +68,9 @@ PINECONE_INDEX=your-pinecone-index-name
 
 | Light Mode | Dark Mode |
 |:---:|:---:|
-| ![light](path/to/light_mode_screenshot.png) | ![dark](path/to/dark_mode_screenshot.png) |
+| ![light](![image](https://github.com/user-attachments/assets/45959956-0ab2-4b31-bf26-4384f29a377f)
+) | ![dark]![image](https://github.com/user-attachments/assets/3c6012f9-8cbb-4d4c-b6fb-6201f0d23beb)
+ |
 
 ---
 
