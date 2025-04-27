@@ -11,6 +11,9 @@ It uses **OpenAI GPT** models and **Pinecone** vector database for retrieval-aug
 ## 🌐 Live Demo
 ((https://jashu284-new-ai-app-cfl4fp.streamlit.app/))
 
+## Video Demo
+((https://drive.google.com/file/d/1CXj6CmL2K8KEsuqvm4acaoxNfyusiqxp/view?usp=sharing))
+
 ---
 
 ## 🔗 Technologies Used
