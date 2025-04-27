@@ -1,6 +1,7 @@
 Generative AI Assistant Project
-                                                                                                                                Vinay Sai Rajapu – 002870410
-                                                                                                                               Pavuluri Jaswanth - 002870640
+                                               Group Member:-
+                                               Vinay Sai Rajapu – 002870410
+                                               Pavuluri Jaswanth - 002870640
 1. Project Overview
 The Generative AI Assistant project is designed to provide users with a conversational interface capable of answering questions specifically related to the domain of Generative Artificial Intelligence.
 The goal was to create an interactive, reliable, and user-friendly system that leverages state-of-the-art AI models to deliver intelligent, context-aware answers.
@@ -14,6 +15,19 @@ Overall, the assistant was tailored specifically to maintain focus on Generative
 ________________________________________
 2. Architecture Diagram
 Overall Flow:
+User Input (Streamlit App)
+    ↓
+Embedding Generation (OpenAI - text-embedding-3-small)
+    ↓
+Vector Search (Pinecone - retrieve top 3 similar chunks)
+    ↓
+Context Building (combine retrieved knowledge)
+    ↓
+Prompt Formation (insert context + user query)
+    ↓
+Answer Generation (OpenAI - gpt-3.5-turbo)
+    ↓
+Answer Display (Streamlit Frontend)
  Components:
 •	User Interface (UI): Built with Streamlit for interaction.
 •	Embedding Generator: OpenAI’s embedding API for converting text to vectors.
