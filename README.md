@@ -1,4 +1,6 @@
-# 🧠 Generative AI Assistant
+# 🧠 Generative AI Assistant           
+                         by Vinay Sai Rajapu(002870410) and Jaswanth Pavuluri(002870640)
+                         Website - https://generative-ai-assistant-jcs9tqw.gamma.site/
 
 Welcome to the **Generative AI Assistant** project!
 This Streamlit-based app allows you to ask questions related to **Generative AI** topics such as **transformers**, **embeddings**, **GANs**, **RAG**, and more.
